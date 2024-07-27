@@ -1,4 +1,4 @@
- === About ===
+ ##=== About ===
 
 Particle Universe is a simple particle simulation sandbox, in which point-like particles move through space, interacting with each other in various ways.
 The project was inspired by Tom Mohr's work "Particle Life", which I found on Youtube some time ago. (You can watch the orginal video here: https://www.youtube.com/watch?v=p4YirERTVF0)
@@ -10,7 +10,7 @@ or simply place a lot of matter in one place and watch what will happen.
 So... Have fun! :)
 
 
- === Controls ===
+ ##=== Controls ===
 
 Right mouse button, Arrows	- Move around
 Mouse wheel			- Zoom
@@ -47,16 +47,16 @@ F3	- Toggle the display of selection
 F4	- Toggle the display of simulation sectors**
 
 
-*Action Force parameter determines how strongly the user actions affect the simulation
+\*Action Force parameter determines how strongly the user actions affect the simulation
 (e.g. determines the number of particles to be created,
 strength of the force applied, 
 or how much the particles are to be slowed down).
 By default it is equal to 1.
 
-**The space in the simulation is subdivided into smaller sectors to reduce the number of computations and improve performance.
+\*\*The space in the simulation is subdivided into smaller sectors to reduce the number of computations and improve performance.
 
 
- === Simulation ===
+ ##=== Simulation ===
 
 The Universe in the simulation consists of a fixed* number of particles that can interact in two main ways:
 by exerting a force on each other or changing types.
@@ -80,7 +80,7 @@ Now, I could tell you exactly how each particle behaves, but that would take awa
 So, sorry, but you will have to experiment and test it for yourself! ;)
 
 
-*The number of particles in simulation won't change on its own**, so the only way you can introduce new matter into the system is by adding it yourself.
+\*The number of particles in simulation won't change on its own\*\*, so the only way you can introduce new matter into the system is by adding it yourself.
 
-**In some rare cases, when particle somehow will change its parameters in such a way that they become invalid
+\*\*In some rare cases, when particle somehow will change its parameters in such a way that they become invalid
 (e.g. by moving outside the 32-bit floating-point range, having an invalid type, ect.), it will be removed from simulation to prevent further errors.
