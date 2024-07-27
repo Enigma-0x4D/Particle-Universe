@@ -4,7 +4,7 @@ Particle Universe is a simple particle simulation sandbox, in which point-like p
 The project was inspired by Tom Mohr's work "Particle Life", which I found on Youtube some time ago. (You can watch the orginal video here: https://www.youtube.com/watch?v=p4YirERTVF0)
 
 There is no specific objective for what you can do in this program:
-- you can carefully place particles and build complex structures that will perform a specific task,
+you can carefully place particles and build complex structures that will perform a specific task,
 or simply place a lot of matter in one place and watch what will happen.
 
 So... Have fun! :)
