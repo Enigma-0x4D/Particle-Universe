@@ -13,7 +13,7 @@ So... Have fun! :)
  === Installation ===
 
 To install the application you need to:
-- Download the "vc_redist.x86.exe" from this site: https://aka.ms/vs/17/release/vc_redist.x86.exe
+- Download the "vc_redist.x86.exe" file (you can do it here: https://aka.ms/vs/17/release/vc_redist.x86.exe)
 - Run the downloaded executable, and wait for it to install
 - Download the "particle-universe-app.zip"
 - Extract the folder on your computer
