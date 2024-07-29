@@ -10,6 +10,16 @@ or simply place a lot of matter in one place and watch what will happen.
 So... Have fun! :)
 
 
+ === Installation ===
+
+To install the application you need to:
+- Download the "vc_redist.x86.exe" from this site: https://www.microsoft.com/en-us/download/details.aspx?id=48145
+- Run the downloaded executable, and wait for it to install
+- Download the "particle-universe-app.zip"
+- Extract the folder on your computer
+- Run the "particle-universe-app.exe" file you will find inside the "particle-universe-app" folder
+
+
  === Controls ===
 
 Right mouse button, Arrows       - Move around
